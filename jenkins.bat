@@ -1,0 +1,1 @@
+bat label: 'Build Status', returnStatus: true, script: 'bat label: \'\', script: \'dotnet build MyFirstWebApi.csproj\''
